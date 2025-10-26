@@ -5,3 +5,7 @@ bu senoryo sayesinde cihazlarınızı kontrol edecek siniz TR.
 
 
 git clone https://github.com/Eyupcyl/uzaktankonrol
+
+chmod +x final.sh       
+
+./final.sh   veya    bash final.sh
