@@ -3,7 +3,7 @@ bu senoryo sayesinde cihazlarınızı kontrol edecek siniz TR.
 !!!>sadece linux cihazlar kulana bilir.
 ?>termux ile kulana bilmek için x11 ortamı lazım onu sen ayarla
 
-git clone https://github.com/Eyupcyl/uzaktankonrol/blob/main/final.sh
+git clone https://github.com/Eyupcyl/uzaktankonrol/blob/main/
 
 chmod +x final.sh       
 
